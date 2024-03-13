@@ -1,2 +1,2 @@
 # R-functions
-Collection of some R functions that I find useful
+Collection of some R functions and snippets that I find useful
