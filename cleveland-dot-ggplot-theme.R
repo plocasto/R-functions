@@ -1,5 +1,5 @@
 # from Luke Tierney
-## theme to create Cleveland-like dot plot
+## ggplot theme to create Cleveland-like dot plot
 
 theme_dotplotx <- function() {
   theme(
